@@ -3419,7 +3419,7 @@ border-radius: 0px;</string>
       <string notr="true">color: rgb(41, 145, 208);</string>
      </property>
      <property name="text">
-      <string>G3D T2000</string>
+      <string>G3D T800</string>
      </property>
      <property name="alignment">
       <set>Qt::AlignCenter</set>

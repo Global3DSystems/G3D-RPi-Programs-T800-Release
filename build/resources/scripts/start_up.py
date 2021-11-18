@@ -398,7 +398,7 @@ if __name__ == "__main__":
     # TODO, make the path defined at the top.
     # Minor technical debt only.
     
-    elif os.path.exists("/home/pi/Downloads/G3D-RPi-Programs-Release-T800-master"):
+    elif os.path.exists("/home/pi/Downloads/G3D-RPi-Programs-T800-Release-master"):
 
         w.cloud_update_apply()
         w.showFullScreen()
@@ -409,12 +409,12 @@ if __name__ == "__main__":
 
         app.processEvents()
     
-        shutil.rmtree("/home/pi/G3D-RPi-Programs-Release-T800-master", ignore_errors = True)
+        shutil.rmtree("/home/pi/G3D-RPi-Programs-T800-Release-master", ignore_errors = True)
 
-        shutil.copytree("/home/pi/Downloads/G3D-RPi-Programs-Release-T800-master",
-                        "/home/pi/G3D-RPi-Programs-Release-T800-master")
+        shutil.copytree("/home/pi/Downloads/G3D-RPi-Programs-T800-Release-master",
+                        "/home/pi/G3D-RPi-Programs-T800-Release-master")
 
-        shutil.rmtree("/home/pi/Downloads/G3D-RPi-Programs-Release-T800-master")
+        shutil.rmtree("/home/pi/Downloads/G3D-RPi-Programs-T800-Release-master")
 
         w.start_program()
 

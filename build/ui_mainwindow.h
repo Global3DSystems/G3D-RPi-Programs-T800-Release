@@ -2815,7 +2815,7 @@ public:
         label_10->setText(QString());
         label_11->setText(QApplication::translate("MainWindow", "SCAN ME", nullptr));
         about_update_button->setText(QApplication::translate("MainWindow", "Check for Updates", nullptr));
-        label_1->setText(QApplication::translate("MainWindow", "G3D T2000", nullptr));
+        label_1->setText(QApplication::translate("MainWindow", "G3D T800", nullptr));
         about_bg_button->setText(QString());
         reset_button->setText(QApplication::translate("MainWindow", "Reset to Default", nullptr));
         about_yes->setText(QApplication::translate("MainWindow", "YES", nullptr));
