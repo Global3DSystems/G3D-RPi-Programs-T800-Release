@@ -1,4 +1,4 @@
+OPPO A3s
 NetworkTest24GHz
-NetworkTest5GHz
-OCAMPO
-ZTE_2.4G_vzf4J4
+PLDTHOMEFIBRPMybC
+PLDT_Home_76D8A
