@@ -1,4 +1,0 @@
-NetworkTest24GHz
-NetworkTest5GHz
-OCAMPO
-ZTE_2.4G_vzf4J4
